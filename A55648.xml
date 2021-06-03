@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Prayer for His Majesty's success in his great undertaking for Ireland</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55648</idno><idno type="EEBO-CITATION">19501055</idno>
+  <idno type="VID">108886</idno>
+  <idno type="EEBO-PROQUEST">2240869270</idno>
+  
+            <idno type="STC">Wing P3190</idno>
+            <idno type="STC">ESTC R40663</idno>
+            <idno type="OCLC">19501055</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55648)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108886)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1676:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Prayer for His Majesty's success in his great undertaking for Ireland</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ric. Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reel guide incorrectly lists item on reel 1677.</note>
+                  <note>Imperfect: stained, with slight loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">William --  III, --  King of England, 1650-1702.</term>
+               <term type="topical_term">Prayers.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="prayer">
+            <pb facs="tcp:108886:1"/>
+            <head>A PRAYER FOR His MAJESTY's Success In his Great Undertaking for IRELAND.</head>
+            <p>O Most glorious Majesty of Heaven and Earth, who commandest all creatures with an absolute power, and governest them with an uner<g ref="char:EOLhyphen"/>ring Wisdom, impartial Justice, and unspotted Goodness; we thine un<g ref="char:EOLhyphen"/>worthy Servants humbly fall down before thee, and adore thy most gra<g ref="char:EOLhyphen"/>cious Providence, by which we have been wonderfully delivered in this Kingdom from Popish Tyranny and
+<pb facs="tcp:108886:2"/>Arbitrary Power, which lately threatned us.</p>
+            <p>
+               <hi>If the Lord had not been on our side,</hi> (we ought most thankfully to ac<g ref="char:EOLhyphen"/>knowledg) <hi>if the Lord had not been on our side, when our enemies rose up against us then they had swallowed us up, when they were so wrathfully displeased at us. Blessed be the Lord, who did not give us as a prey unto their teeth. Blessed be the Lord, who hath shown us mar<g ref="char:EOLhyphen"/>vellous kindness, in not suffering them to prevail over us.</hi>
+            </p>
+            <p>To thy infinite mercy alone we owe our present Peace and Tranquil<g ref="char:EOLhyphen"/>lity, the freedom of our Religion, and all our other Liberties: For, as we were not able to deliver our selves from those great and apparent dan<g ref="char:EOLhyphen"/>gers wherewith we were encompas<g ref="char:EOLhyphen"/>sed so, we did not deserve to be de<g ref="char:EOLhyphen"/>livered by thee: being <hi>a stubborn and rebellious people; a generationt hat set not our hearts aright; whose spirit was not stedfast with thee our God.</hi> For
+<pb facs="tcp:108886:2"/>
+               <hi>we have soon forgotten thy works, and the wonders which thou hast shown us; we have sinned yet more against thee, by provoking thee</hi> immediately after we have been delivered by thee.</p>
+            <p>We have reason to be ashamed, and blush to lift up our faces to thee, O our God, for our Iniquities are en<g ref="char:EOLhyphen"/>creased, by our returning so soon un<g ref="char:EOLhyphen"/>to those evil waies which we lately condemned. Pardon, good Lord, this our shameful Ingratitude to<g ref="char:EOLhyphen"/>wards thee; pardon it, we most ear<g ref="char:EOLhyphen"/>nestly beseech thee, and do not punish it, by throwing us back again into those dangers we have escaped. Give us unfeigned Repentance of that, and all our other hainous Offences against thee, particularly our continued un<g ref="char:EOLhyphen"/>charitableness one towards another, our bitter envying and strife, discord and divisions, into which we are faln afresh with violent animosities. Lord, convince us of the greatness of this Guilt, and cast out of us the evil
+<pb facs="tcp:108886:3"/>spirit of hatred, and wrath, and re<g ref="char:EOLhyphen"/>venge, that it may not bring us to confusion: But Thou, in thy infinite mercy, maist be pleased not only to spare us, but to perfect what Thou hast begun to do for us, by working the like Deliverance for our Brethren in <hi>Ireland,</hi> that they may <hi>praise</hi> Thee together with us.</p>
+            <p>As Thou hast given His Majesty a magnanimous Resolution to ha<g ref="char:EOLhyphen"/>zard himself for their Safety, so, we beseech thee, let the same pro<g ref="char:EOLhyphen"/>sperous Successes attend upon him, which brought him hither, and set<g ref="char:EOLhyphen"/>tled him on the Throne of <hi>these Kingdoms.</hi> Let thy Mercy, O Lord, be upon him, according to the trust which he professes to repose in thee; that thou wilt <hi>vouchsafe a special Blessing upon this his great Ʋnderta<g ref="char:EOLhyphen"/>king, and thereby consummate our Deliverance.</hi>
+            </p>
+            <p>Protect his Royal Person, both by Sea and by Land; direct him in all his
+<pb facs="tcp:108886:3"/>Counsels and Proceedings; preserve his Fleet and his Armies; conduct and bless them in all their Enter<g ref="char:EOLhyphen"/>prizes; strike a terror every where into his Enemies, and make him victorious over them.</p>
+            <p>Secure our peace and quietness here at home, during his absence from us: discover and defeat all se<g ref="char:EOLhyphen"/>cret Contrivances against their Ma<g ref="char:EOLhyphen"/>jesties and their Government; sup<g ref="char:EOLhyphen"/>press or quell all turbulent Spirits: and let all these Commotions end in the happy settlement of these di<g ref="char:EOLhyphen"/>stracted Kingdoms, in the peaceable and secure enjoyment of our Reli<g ref="char:EOLhyphen"/>gion, and of all the Rights and Li<g ref="char:EOLhyphen"/>berties belonging to us.</p>
+            <p>Blessed be thy Name, O Lord, who, when we called upon thee the last year, was pleased graciously to grant our Petitions, in preserving many of our Brethren in <hi>Ireland,</hi> who were straitly besieged by a nu<g ref="char:EOLhyphen"/>merous
+<pb facs="tcp:108886:4"/>Army, and reduced to great extremity. Thou madest the Wind and the Sea favourable to our Forces, which were sent thither: thou gavest them a safe arrival and landing there, for their seasonable relief: and hast, ever since, made them victorious in all the Encounters they have had with their Enemies.</p>
+            <p>Stir up the hearts of all thy People, we humbly beseech thee, not only to call upon thee earnestly, in publick and private; but to search and try their ways, and to turn unto thee in newness of life. That thou mayest repeat the very same Mercies, by car<g ref="char:EOLhyphen"/>rying His Majesty and his Forces safely and timely thither; and then compleatly subduing all his Oppo<g ref="char:EOLhyphen"/>sers, and returning him unto this Kingdom in triumph, to reign long and peaceably over us: that, being all delivered out of the hands of our Enemies, we may serve thee
+<pb facs="tcp:108886:4"/>without fear, under Their Majesties Government, in holiness and righ<g ref="char:EOLhyphen"/>teousness all our days.</p>
+            <p>And pity, we pray thee, all other <hi>Reformed Churches</hi> which are laid waste; and raise them up out of their ruins. Hear their Sighs and Groans, and deliver them from their cruel Oppressors. Unite all those who hitherto continue in safety; that they may be able to defend themselves, and help their Brethren. Root out that impla<g ref="char:EOLhyphen"/>cable spirit of animosity and ha<g ref="char:EOLhyphen"/>tred, which hath reigned too much among us: and knit us altogether in Brotherly Affection. Make us sensible of our Sin, and of our Danger, into which we have brought our selves by our fierce contentions; that we may not hereafter be guilty of such foolish wickedness: but study how to make and preserve peace and unity,
+<pb facs="tcp:108886:5"/>notwithstanding any differences that remain among us.</p>
+            <p>
+               <hi>O Lord hear, O Lord forgive, O Lord hearken and do, defer not for thine own sake, O our God; and for thy People who are called by thy name: for we do not present our supplications before thee for our righteousness, but for thy great mercies,</hi> in Christ Jesus. To whom, with thee and the Holy Ghost, be all honour and glory, World without end, <hi>Amen.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ric. Chiswell,</hi> at the <hi>Rose</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s <hi>Church-yard,</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
